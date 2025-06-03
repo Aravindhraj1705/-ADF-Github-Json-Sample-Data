@@ -1,0 +1,11 @@
+LocationID,ClinicName,Address,City,State,PostalCode,Phone
+301,HealthFirst Clinic,123 Main St,New York,NY,10001,+1-212-555-1010
+302,WellCare Center,456 Oak Ave,Los Angeles,CA,90001,+1-310-555-2020
+303,CarePoint Medical,789 Pine Rd,Chicago,IL,60601,+1-312-555-3030
+304,Prime Health Hub,101 Maple Blvd,Houston,TX,77001,+1-713-555-4040
+305,Urban HealthCare,202 Birch Ln,Phoenix,AZ,85001,+1-602-555-5050
+306,GreenCross Clinic,303 Cedar St,Philadelphia,PA,19101,+1-215-555-6060
+307,Sunrise Wellness,404 Elm Dr,San Antonio,TX,78201,+1-210-555-7070
+308,Healthy Life Med,505 Ash Ave,San Diego,CA,92101,+1-619-555-8080
+309,BetterCare Medical,606 Palm Blvd,Dallas,TX,75201,+1-214-555-9090
+310,Hope Medical Center,707 Spruce Rd,San Jose,CA,95101,+1-408-555-0000

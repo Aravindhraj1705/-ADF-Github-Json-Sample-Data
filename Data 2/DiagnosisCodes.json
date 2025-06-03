@@ -1,0 +1,42 @@
+[
+  {
+    "DiagnosisCode": "D001",
+    "DiagnosisDescription": "Essential (primary) hypertension"
+  },
+  {
+    "DiagnosisCode": "D002",
+    "DiagnosisDescription": "Type 2 diabetes mellitus"
+  },
+  {
+    "DiagnosisCode": "D003",
+    "DiagnosisDescription": "Acute bronchitis"
+  },
+  {
+    "DiagnosisCode": "D004",
+    "DiagnosisDescription": "Gastro-esophageal reflux disease"
+  },
+  {
+    "DiagnosisCode": "D005",
+    "DiagnosisDescription": "Plaque psoriasis"
+  },
+  {
+    "DiagnosisCode": "D006",
+    "DiagnosisDescription": "Urinary tract infection"
+  },
+  {
+    "DiagnosisCode": "D007",
+    "DiagnosisDescription": "Low back pain"
+  },
+  {
+    "DiagnosisCode": "D008",
+    "DiagnosisDescription": "Headache"
+  },
+  {
+    "DiagnosisCode": "D009",
+    "DiagnosisDescription": "Asthma"
+  },
+  {
+    "DiagnosisCode": "D010",
+    "DiagnosisDescription": "Viral infection, unspecified"
+  }
+]

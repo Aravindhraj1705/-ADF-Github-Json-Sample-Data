@@ -1,0 +1,11 @@
+PhysicianID,FirstName,LastName,Specialization,ContactNumber,Email
+501,Gregory,House,Internal Medicine,+1-555-1111,house@hospital.com
+502,Meredith,Grey,Neurology,+1-555-2222,grey@hospital.com
+503,John,Carter,Orthopedics,+1-555-3333,carter@hospital.com
+504,Allison,Cameron,Pediatrics,+1-555-4444,cameron@hospital.com
+505,Derek,Shepherd,Cardiology,+1-555-5555,shepherd@hospital.com
+506,Christina,Yang,Dermatology,+1-555-6666,yang@hospital.com
+507,James,Wilson,Oncology,+1-555-7777,wilson@hospital.com
+508,Lisa,Cuddy,General Practice,+1-555-8888,cuddy@hospital.com
+509,Robert,Chase,Urology,+1-555-9999,chase@hospital.com
+510,Eric,Foreman,ENT,+1-555-0000,foreman@hospital.com
